@@ -64,6 +64,8 @@ export const remainingPaths = Object.keys(remainingRouter).map(v => {
   return remainingRouter[v].path;
 });
 
+// 根据环境变量设置基础路径
+
 /** 创建路由实例 */
 export const router: Router = createRouter({
   history: getHistoryMode(import.meta.env.VITE_ROUTER_HISTORY),

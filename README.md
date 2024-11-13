@@ -1,51 +1,49 @@
-<h1>vue-pure-admin精简版（非国际化版本）</h1>
+# 项目介绍
 
-[![license](https://img.shields.io/github/license/pure-admin/vue-pure-admin.svg)](LICENSE)
+## 项目背景
 
-**中文** | [English](./README.en-US.md)
+- 项目起因
+- 解决的问题
+- 目标用户群体
 
-## 介绍
+## 技术栈
 
-精简版是基于 [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) 提炼出的架子，包含主体功能，更适合实际项目开发，打包后的大小在全局引入 [element-plus](https://element-plus.org) 的情况下仍然低于 `2.3MB`，并且会永久同步完整版的代码。开启 `brotli` 压缩和 `cdn` 替换本地库模式后，打包大小低于 `350kb`
+- 主要使用的技术和框架
+- 开发环境配置
+- 第三方库和服务
 
-## 版本选择
+## 功能模块
 
-当前是非国际化版本，如果您需要国际化版本 [请点击](https://github.com/pure-admin/pure-admin-thin/tree/i18n)
+- 核心功能介绍
+- 各模块间的关系
+- 用户交互流程
 
-## `js` 版本
+## 开发计划
 
-[点我查看 js 版本](https://pure-admin.github.io/pure-admin-doc/pages/js/)
+- 项目里程碑
+- 关键任务列表
+- 预期完成时间
 
-## `max` 版本
+## 团队成员
 
-[点我查看 max 版本](https://github.com/pure-admin/vue-pure-admin-max)
+- 成员角色分配
+- 联系方式
+- 分工合作机制
 
-## 配套视频
+## 文档与资源
 
-[点我查看 UI 设计](https://www.bilibili.com/video/BV17g411T7rq)  
-[点我查看快速开发教程](https://www.bilibili.com/video/BV1kg411v7QT)
+- 项目文档链接
+- 参考资料
+- 其他相关资源
 
-## 配套保姆级文档
+## 遇到的挑战及解决方案
 
-[点我查看 vue-pure-admin 文档](https://pure-admin.github.io/pure-admin-doc)  
-[点我查看 @pureadmin/utils 文档](https://pure-admin-utils.netlify.app)
+- 技术难题
+- 项目管理问题
+- 客户需求变化应对
 
-## 优质服务、软件外包、赞助支持
+## 未来规划
 
-[点我查看详情](https://pure-admin.github.io/pure-admin-doc/pages/service/)
-
-## 预览
-
-[查看预览](https://pure-admin-thin.netlify.app/#/login)
-
-## 维护者
-
-[xiaoxian521](https://github.com/xiaoxian521)
-
-## ⚠️ 注意
-
-精简版不接受任何 `issues` 和 `pr`，如果有问题请到完整版 [issues](https://github.com/pure-admin/vue-pure-admin/issues/new/choose) 去提，谢谢！
-
-## 许可证
-
-[MIT © 2020-present, pure-admin](./LICENSE)
+- 短期目标
+- 中长期发展计划
+- 持续改进方向
